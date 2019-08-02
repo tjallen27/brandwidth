@@ -12,6 +12,7 @@ To run:
 Dependancies:
 
 - React Modal ('react-modal')
+- Axios ('axios')
 
 I chose React for the UI performance, being a data based application.
 
